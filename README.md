@@ -18,7 +18,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/digital-design-verilog.git  
+
 cd digital-design-verilog  
 Open the Verilog files in Vivado or any other HDL simulator.
 Run testbenches to verify the functionality.
